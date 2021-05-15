@@ -1,3 +1,7 @@
-Django>=3.0,<=3.1
-whitenoise
-psycopg2-binary
+asgiref==3.2.10
+Django==3.1
+psycopg2-binary==2.8.6
+python-decouple==3.4
+pytz==2021.1
+sqlparse==0.4.1
+whitenoise==5.2.0
